@@ -10,8 +10,8 @@ public class Apple extends Fruit {
 	public String taste() {
 		return "sweet and sour";
 	}
-//In Apple : public void jam() {Display name of the fruit + a mesg  making jam!}
+}
 	public String jam() {
 		return "name: "+super.getName()+"  apple jam";
-	}
+	//added }
 }
