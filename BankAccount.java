@@ -31,4 +31,8 @@ public void withdraw(double amount)
 	this.balance-=amount;
 }
 
+public String AccountType(){
+	return default;
+}
+
 }
