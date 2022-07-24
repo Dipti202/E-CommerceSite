@@ -15,7 +15,7 @@ public class Fruit {
 		
 	}
 
-
+//added comment here
 	public void setFresh(boolean fresh) {
 		this.fresh = fresh;
 	}

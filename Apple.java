@@ -2,7 +2,7 @@ package com.app.fruits;
 
 public class Apple extends Fruit {
 
-	
+	//changes by me
    public Apple(String color, double weight, String name)
    {
 	   super(color,weight,name);
