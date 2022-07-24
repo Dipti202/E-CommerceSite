@@ -10,6 +10,9 @@ public class Mango extends Fruit {
 	public String taste() {
 		return "Sweet";
 	}
+	public void flavour(){
+	return "Tasty like miranda";
+}
 //	In Mango : public void pulp() {Display name n color of the fruit + a mesg  creating  pulp!}
 	public String pulp()
 	{

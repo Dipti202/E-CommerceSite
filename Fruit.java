@@ -21,7 +21,9 @@ public class Fruit {
 		this.fresh = fresh;
 	}
 
-
+public void flavour(){
+	return "no specific flavor";
+}
 	public String taste()
 	{
 	 return "no specific taste";	
@@ -43,9 +45,9 @@ public class Fruit {
 		return weight;
 	}
  
- public int getQuantity({
+ public int getQuantity(){
 	 return quantity;
- })
+ }
     
 
 	public String getName() {
