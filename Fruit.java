@@ -4,6 +4,7 @@ public class Fruit {
 	private  String color ;
 	 private double weight ; 
 	private String name;
+	private int quantity;
 	private boolean fresh=true ;
 
 	
@@ -41,7 +42,11 @@ public class Fruit {
 	public double getWeight() {
 		return weight;
 	}
-
+ 
+ public int getQuantity({
+	 return quantity;
+ })
+    
 
 	public String getName() {
 		return name;
